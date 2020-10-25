@@ -19,5 +19,5 @@ I haven't followed any design pattern here. I have no plans to redesign this for
 
 
 # Source code restructured for IntelliJ
-My buddy Rakesh has tried his best to restructure this mess and the same can be found here -
-[Restructure Source code - JFotomatic](https://github.com/racchouhan12/JFhotoMatic)
+My buddy Rakesh has tried his best to restructure this mess using IntelliJ IDE and the same can be found here -
+[Restructured Source code - JFotomatic](https://github.com/racchouhan12/JFhotoMatic)
